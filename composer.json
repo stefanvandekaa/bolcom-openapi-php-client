@@ -1,5 +1,5 @@
 {
-    "name": "bolcom/bolcom-openapi-php-client",
+    "name": "stefanvandekaa/bolcom-openapi-php-client",
     "description": "Client library for the bol.com Open API",
     "keywords": ["bolcom","openapi"],
     "type": "library",
